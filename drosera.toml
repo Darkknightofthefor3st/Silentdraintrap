@@ -7,7 +7,7 @@ drosera_address = "0x91cB447BaFc6e0EA0F4Fe056F5a9b1F14bb06e5D"
 
 path = "out/SilentDrainTrap.sol/SilentDrainTrap.json"
 
-response_contract = "0xYOUR_DEPLOYED_RESPONDER_ADDRESS"
+response_contract = "0x1f5d77a8043E874BE3FCF0067D0d44979aa0831E"
 response_function = "respondToSilentDrain(address,uint256,uint256,uint256,uint256)"
 
 cooldown_period_blocks = 30
